@@ -1,0 +1,19 @@
+.odd {
+  background-color: rgb(235, 121, 140);
+  font-family: Verdana, sans-serif;
+}
+
+#unique {
+  color: rgb(34, 94, 235);
+  font-size: 36px;
+}
+
+.cooler {
+  font-size: 24px;
+}
+
+#another {
+  background-color: rgb(134, 246, 134);
+  font-size: 24px;
+  font-weight: bold;
+}
